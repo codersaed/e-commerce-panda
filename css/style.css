@@ -1,0 +1,89 @@
+
+.banner-color {
+    background-color: #FBEBE9;
+    border-radius: 15px;
+}
+.banner-color img {
+    width: 80%;
+}
+.mark-p {
+    color: #FF136F;
+}
+.imgR img {
+    width: 70%;
+}
+.btn-now {
+    background-color: #FF136F;
+    color: #fff;
+    border-radius: 5px;
+    border: none;
+    padding: 7px 20px;
+}
+
+.categroies {
+    height: 400px;
+    padding-top: 70px;
+}
+.cardA img{
+    width: 120px;
+}
+.cardB img{
+    width: 120px;
+}
+.cardC img{
+    width: 120px;
+}
+.cardA {
+    background-image: linear-gradient(60deg,#FF9C35, #FFD019);
+    border-radius: 15px;
+    padding: 10px 35px;
+    color: #fff;
+}
+.cardB {
+    background-image: linear-gradient(60deg,#FF589B , #FF136F);
+    border-radius: 15px;
+    padding: 10px 35px;
+    color: #fff;
+}
+.cardC {
+    background-image: linear-gradient(60deg,#4289FF , #07F8C3);
+    border-radius: 15px;
+    padding: 10px 35px;
+    color: #fff;
+}
+.text a {
+    text-decoration: none;
+}
+.see-color {
+    color: #FF136F;
+}
+.card {
+    border: none;
+    box-shadow: 5px 5px 10px gainsboro;
+    border-radius: 10px;
+}
+
+.shop-area {
+    height: 1400px;
+    background-color: #f1f2f6;
+}
+.backP {
+    margin-top: 120px;
+    margin-bottom: 20px;
+}
+.backpack .card img {
+    padding: 20px;
+}
+
+.contact {
+    padding: 110px;
+}
+.other {
+    padding: 80px;
+}
+.inputO {
+    padding: 20px 45px;
+}
+.btn-two {
+    padding: 0 35px;
+}
